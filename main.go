@@ -2,6 +2,8 @@ package main
 
 import "fmt"
 
+//added comment
+
 func main() {
 
 	cards := newDeck()
